@@ -1,0 +1,4 @@
+keras == 2.1.4
+h5py < 3.0.0
+tensorflow == 1.15.0
+scikit-image == 0.18.3

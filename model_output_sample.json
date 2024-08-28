@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "puid": "7ai1plgp51u2bonspc8edcheq0",
+    "tags": {
+    },
+    "routing": {
+    },
+    "requestPath": {
+      "com-google-img-inception3": "vmx-eea353.ete.ka.sw.ericsson.se:32222/com.google.img.inception3:0.1.0"
+    },
+    "metrics": []
+  },
+  "data": {
+    "names": [
+      "class",
+      "description",
+      "probability"
+    ],
+    "ndarray": [
+      [
+        "n02504013",
+        "Indian_elephant",
+        "0.9822097"
+      ],
+      [
+        "n01871265",
+        "tusker",
+        "0.013528754"
+      ],
+      [
+        "n02504458",
+        "African_elephant",
+        "0.0041281073"
+      ]
+    ]
+  }
+}
